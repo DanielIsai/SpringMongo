@@ -16,6 +16,7 @@ public class MessageResponse {
 	@Value("${mSuccess}")
 	private String mSuccess;
 	
+	
 	@Value("${mEmptyName}")
 	private String mEmptyName;
 	
